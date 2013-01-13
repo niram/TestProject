@@ -10,4 +10,7 @@ public class App
     {
         System.out.println( "Hello World!" );
     }
+	Public static add(){
+	System.out.println( "Hello World! Tero Baaje" );
+	}
 }
